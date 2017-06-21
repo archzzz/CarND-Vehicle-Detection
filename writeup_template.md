@@ -32,7 +32,7 @@ The goals / steps of this project are the following:
 [image15]: ./output_images/labels5.png
 [image16]: ./output_images/labels6.png
 
-[image17]: ./output_images/output_bboxes.jpg
+[image17]: ./output_images/output_box.jpg
 [video1]: ./project_video.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
